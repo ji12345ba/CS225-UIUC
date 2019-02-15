@@ -1,0 +1,4 @@
+@INCLUDE        = ../../doxygen/doxygen.conf
+PROJECT_NAME    = "lab_bipartite"
+PROJECT_BRIEF   = "Billowy Bipartite Matching"
+EXTRACT_PRIVATE = YES

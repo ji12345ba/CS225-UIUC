@@ -1,0 +1,6 @@
+@INCLUDE      = ../../doxygen/doxygen.conf
+PROJECT_NAME  = "lab_trees"
+PROJECT_BRIEF = "Tempestuous Trees"
+RECURSIVE 		= YES
+EXTRACT_PRIVATE = YES
+ENABLE_PREPROCESSOR = YES

@@ -1,0 +1,7 @@
+# Ignore files cleaned up by `make clean`
+test
+mp2
+*.o
+*.d
+.objs/*
+out.png

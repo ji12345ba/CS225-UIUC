@@ -1,0 +1,14 @@
+lab_hash
+test
+
+.vscode
+
+*.swp
+*.swo
+*.swn
+*.swm
+
+*DS_Store
+*.o
+*.d
+.objs/

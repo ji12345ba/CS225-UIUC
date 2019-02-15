@@ -1,0 +1,14 @@
+mp5
+test
+.obj
+*.o
+*.d
+
+gridtest-actual.png
+test_result_*.kd
+mosaic.png
+mosaic_soln2.png
+mp5_pngs.tar.bz2*
+mp5_pngs
+uiuc-ig
+

@@ -1,0 +1,16 @@
+decoder
+encoder
+print_as_ascii
+test
+
+.vscode
+
+*.swp
+*.swo
+*.swn
+*.swm
+
+*DS_Store
+*.o
+*.d
+.objs/

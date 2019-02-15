@@ -1,0 +1,4 @@
+@INCLUDE        = ../../doxygen/doxygen.conf
+PROJECT_NAME    = "lab_ml"
+PROJECT_BRIEF   = "Lazy Machine Learning"
+EXTRACT_PRIVATE = YES

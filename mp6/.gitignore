@@ -1,0 +1,10 @@
+mp6
+test
+*.o
+*.d
+.obj
+
+unsolved.png
+solved.png
+testdsets
+testsquaremaze

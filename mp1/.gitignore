@@ -1,0 +1,4 @@
+# Ignore files cleaned up by `make clean`
+test
+mp1
+*.o
